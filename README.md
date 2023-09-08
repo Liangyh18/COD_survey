@@ -104,29 +104,34 @@
 | Uncertainty-aware Joint Salient Object and Camouflaged Object Detection | CVPR | https://github.com/JingZhang617/Joint_COD_SOD | [Google Driver](https://drive.google.com/file/d/1FJikATesQCZJuu-wzKcWVFTaCL6rwVaj/view?usp=sharing)
 
 
-
-## 其他
+## arXiv
 |                               title                                | Journals or conferences | code | prediction maps
 |:------------------------------------------------------------------:|:-----------------------:|  :--: |  :--: 
-|   Frequency Perception Network for Camouflaged Object Detection    |       ACM MM 2023       | https://github.com/rmcong/FPNet_ACMMM23 | [Baidu Drive](https://pan.baidu.com/s/1qCS-NFUpSMIEqAM4i1Q4eg?pwd=2023)
-|                Source-free Depth for Object Pop-out                |        ICCV 2023        | https://github.com/Zongwei97/PopNet | [Google Drive](https://drive.google.com/file/d/1m8Ht5A4uzvmvSXhn8hEfMJeam7pvaoia/view?usp=sharing)
-|   FSNet: Focus Scanning Network for Camouflaged Object Detection   |        TIP 2023         | https://github.com/SongZeHNU/FSNet | [Google Drive](https://drive.google.com/file/d/1kT9l9NrwWCffP4EQ7ITBd834389xY8iV/view?usp=share_link)
-| Predictive Uncertainty Estimation for Camouflaged Object Detection |        TIP 2023         | https://github.com/Jun-Pu/PUENet | [Google Drive](https://drive.google.com/file/d/16-zoDfdkZfU5M50GDeupM2iOlrzozq22/view)
-| Camouflaged Object Segmentation Based on Matching–Recognition–Refinement Network | TNNLS 2023 | https://github.com/XinyuYanTJU/MRR-Net | [Baidu Driver(gt35)](https://pan.baidu.com/s/16IIRBrQTHdlc08OwYxT1ug)
-| Camouflaged Object Segmentation Based on Joint Salient Object for Contrastive Learning | TIM 2023 | https://github.com/jiangxinhao2020/JCNet | NONE
-| Camouflaged Object Segmentation with Omni Perception | IJCV 2023 | NONE | NONE
-| Double-branch fusion network with a parallel attention selection mechanism for camouflaged object | SCIS 2023 | NONE | NONE
-| Camouflaged object detection with counterfactual intervention | Neurocomputing 2023 | NONE | NONE
-| Extraordinary MHNet: Military high-level camouflage object detection network and dataset | Neurocomputing 2023 | https://github.com/liumaozhen-lmz/Military-Camouflage-MHCD2022 | [Baidu Driver(k40o)](https://pan.baidu.com/s/1gBNqHb0RbQ1EGImi3l1AjQ)
-| Toward Accurate Camouflaged Object Detection With In-Layer Information Enhancement and Cross-Layer Information Aggregation | TCDS 2023 | NONE | NONE
-| Camouflaged Object Detection Based on Ternary Cascade Perception | Remote Sensing 2023 | NONE | NONE
-| Alternate guidance network for boundary-aware camouflaged object detection | Machine Vision and Applications 2023 | NONE | NONE
-| Attention-induced semantic and boundary interaction network for camouflaged object detection | Computer Vision and Image Understanding 2023 | https://github.com/zhangqiao970914/ASBI | [Baidu Driver(oyr5)](https://pan.baidu.com/share/init?surl=eVLmkncX_4-_sSTA8tX2dQ)
-| Camouflaged object detection based on context-aware and boundary refinement | Applied Intelligence 2023 | NONE | NONE
-| Ternary symmetric fusion network for camoufaged object detection | Applied Intelligence 2023 | NONE | NONE
-| OAFormer: Occlusion Aware Transformer for Camouflaged Object Detection | ICME 2023 | https://github.com/xinyang920/OAFormer | [Google Driver](https://drive.google.com/file/d/15zRxBHQlcU-uLDHa2OfWnJeoLUf_6d2h/view?usp=share_link)
-| Dual Attribute Adversarial Camouflage toward camouflaged object detection | Defence Technology 2023 | NONE | NONE
-| Camouflaged Object Detection with a Feature Lateral Connection Network | Electronics 2023 | https://github.com/Tao-Wang-CV/FLCNet | [Baidu Driver(sdlu)](https://github.com/Tao-Wang-CV/FLCNet)
-| A Cross-Level Interaction Network Based on Scale-Aware Augmentation for Camouflaged Object Detection | TETCI 2023 | NONE | NONE
-| Unsupervised Camouflaged Object Segmentation as Domain Adaptation | ICCV 2023 | https://github.com/Jun-Pu/UCOS-DA | [Google Driver](https://drive.google.com/file/d/1NzGFcithFHPF18k6NUt4valLVD7N3ueb/view)
+| Accurate Camouflaged Object Detection via Mixture Convolution and Interactive Fusion | arXiv | https://github.com/BigHeartDB/MCIFNet | NONE
+| Depth-Guided Camouflaged Object Detection | arXiv | NONE | NONE
+| Transformer Transforms Salient Object Detection and Camouflaged Object Detection | arXiv | NONE | NONE
+| DQnet: Cross-Model Detail Querying for Camouflaged Object Detection | arXiv | NONE | NONE
+| CamoFormer: Masked Separable Attention for Camouflaged Object Detection | arXiv | https://github.com/HVision-NKU/CamoFormer | [Baidu Driver](https://pan.baidu.com/s/1k5CxYzcgizzJ4sRdAxBNlA?pwd=srtf)
+| Exploring Depth Contribution for Camouflaged Object Detection | arXiv | NONE | NONE
+| Boundary-Aware Segmentation Network for Mobile and Web Applications | arXiv | https://github.com/NathanUA/BASNet | [Google Driver](https://drive.google.com/file/d/12jijUPpdOe7k2O1YcLbkJHyXCJb3MRMN/view?usp=sharing)
+| Diffusion Model for Camouflaged Object Detection | arXiv | https://github.com/ZNan-Chen/diffCOD | NONE
+| CamDiff: Camouflage Image Augmentation via Diffusion Model | arXiv | https://github.com/drlxj/CamDiff | [Google Driver](https://drive.google.com/file/d/1g6_8TX4FNxy6lLE9piCQMe0nmr8693dZ/view?usp=share_link)
+| CamoDiffusion: Camouflaged Object Detection via Conditional Diffusion Models | arXiv | https://github.com/Rapisurazurite/CamoDiffusion | NONE
+| Pre-train, Adapt and Detect: Multi-Task Adapter Tuning for Camouflaged Object Detection | arXiv | NONE | NONE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
